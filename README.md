@@ -1,2 +1,0 @@
-# kodi
-Midia for Me
