@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.brazilian.xbmc-addons"
+        name="Brazilian XBMC Add-On Repository"
+        version="1.0.0"
+        provider-name="vitorhirota">
+    <extension point="xbmc.addon.repository" name="Brazilian XBMC Add-on Repository">
+        <info compressed="false">https://github.com/rohrbruno/kodiaddons.xml</info>
+        <checksum>https://github.com/rohrbruno/kodiaddons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/rohrbruno/kodi</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Rohr Brazilian Addons</summary>
+        <description>Rohr addons</description>
+        <platform>all</platform>
+    </extension>
+</addon>
