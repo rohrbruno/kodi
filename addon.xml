@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.brazilian.xbmc-addons"
-        name="Brazilian"
-        version="1.0.0"
+<addon id="KODI.Popcorn.Time.Repository.1.0.4"
+        name="Popcorn"
+        version="1.0.4"
         provider-name="rohrbruno">
-    <extension point="xbmc.addon.repository" name="Brazilian XBMC Add-on Repository">
-        <info compressed="false">https://github.com/rohrbruno/kodi/addons.xml</info>
-        <checksum>https://github.com/rohrbruno/kodi/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/rohrbruno/kodi</datadir>
+    <extension point="xbmc.addon.repository" name="Popcorn">
+        <info compressed="false">https://github.com/rohrbruno/kodi/repo/addons.xml</info>
+        <checksum>https://github.com/rohrbruno/kodi/repo/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/rohrbruno/kodi/repo</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Rohr Brazilian Addons</summary>
